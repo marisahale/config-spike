@@ -1,2 +1,6 @@
 server:
-  url: 172.0.0.1:8383/int2
+  url: 172.0.0.1:8383/int3
+
+tlc:
+  enabled: false
+  env: int3
